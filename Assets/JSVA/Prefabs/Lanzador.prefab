@@ -109,7 +109,7 @@ GameObject:
   - component: {fileID: 8745372878802205896}
   - component: {fileID: 8090847488450120274}
   m_Layer: 10
-  m_Name: Weapon_Shotgun
+  m_Name: Lanzador
   m_TagString: Untagged
   m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
   m_NavMeshLayer: 0
@@ -649,7 +649,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 011763291d1bfed4aaaf1719a71df141, type: 2}
+  - {fileID: 2100000, guid: ec54abd796fc1aa4897a4b158f779125, type: 2}
   - {fileID: 2100000, guid: 4427ba4d0feb17e499226c8bdccb35a5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -740,7 +740,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 011763291d1bfed4aaaf1719a71df141, type: 2}
+  - {fileID: 2100000, guid: ec54abd796fc1aa4897a4b158f779125, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -830,7 +830,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 011763291d1bfed4aaaf1719a71df141, type: 2}
+  - {fileID: 2100000, guid: ec54abd796fc1aa4897a4b158f779125, type: 2}
   - {fileID: 2100000, guid: 4427ba4d0feb17e499226c8bdccb35a5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -921,7 +921,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 011763291d1bfed4aaaf1719a71df141, type: 2}
+  - {fileID: 2100000, guid: ec54abd796fc1aa4897a4b158f779125, type: 2}
   - {fileID: 2100000, guid: 4427ba4d0feb17e499226c8bdccb35a5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
@@ -1102,7 +1102,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 011763291d1bfed4aaaf1719a71df141, type: 2}
+  - {fileID: 2100000, guid: ec54abd796fc1aa4897a4b158f779125, type: 2}
   - {fileID: 2100000, guid: 4427ba4d0feb17e499226c8bdccb35a5, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
